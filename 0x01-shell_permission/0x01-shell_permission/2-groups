@@ -1,0 +1,4 @@
+#!/bin/bash
+#printing all the groups the user is in 
+groups
+

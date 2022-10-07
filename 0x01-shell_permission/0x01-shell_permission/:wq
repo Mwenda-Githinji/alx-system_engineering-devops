@@ -1,0 +1,4 @@
+#!/bin/bash
+#changing the current user 
+su betty
+:
