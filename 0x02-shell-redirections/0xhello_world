@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#script to write hello world followed by a new line 
+
+echo hello world \n
+
