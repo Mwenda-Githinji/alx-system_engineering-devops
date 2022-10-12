@@ -1,0 +1,7 @@
+#!/bin/bash 
+
+# display the contents of /etc/passwd file and /etc/host files 
+
+pr /etc/passwd /etc/host
+
+

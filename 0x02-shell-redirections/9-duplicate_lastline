@@ -1,0 +1,8 @@
+#!/bin/bash 
+
+#deleting file with a .js
+
+find . -type f -name "*.js" -delete
+
+
+

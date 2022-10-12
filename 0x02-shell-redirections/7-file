@@ -1,0 +1,7 @@
+#!/bin/bash 
+
+# script to create a file '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+
+touch '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' \n
+
+

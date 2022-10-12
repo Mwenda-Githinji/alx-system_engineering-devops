@@ -1,0 +1,7 @@
+#!/bin/bash 
+
+#counting the number of directories
+
+ls -lR | grep ^d | wc -l
+
+

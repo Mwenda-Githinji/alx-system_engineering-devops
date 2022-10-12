@@ -1,0 +1,8 @@
+#!/bin/bash 
+
+#list the last 10 files 
+
+ls -1t | head -10
+
+
+

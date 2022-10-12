@@ -1,0 +1,7 @@
+#!/bin/bash 
+
+# display the contents of /etc/passwd file
+
+cat /etc/passwd
+
+

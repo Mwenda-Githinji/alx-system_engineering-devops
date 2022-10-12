@@ -1,0 +1,7 @@
+#!/bin/bash 
+
+#writing too a file in linux
+
+cat >ls_cwd_content ls-la
+
+
