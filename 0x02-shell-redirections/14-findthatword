@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#display the lines with root
+
+grep -i "root" /etc/passwd
+
+

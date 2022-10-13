@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# count the word
+
+grep -c -i "bin" /etc/passwd
+
+
+
+
+

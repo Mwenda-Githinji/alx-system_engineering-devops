@@ -5,4 +5,11 @@
 find . -type f -name "*.js" -delete
 
 
+#!/bin/bash
+
+#duplicating the last line of a file 
+
+tail -1 < iacta >> iacta
+
+
 
